@@ -4,3 +4,10 @@ class Move {
     }
 }
 export default Move;
+
+class MoveAttribute {
+    constructor () {
+        
+    }
+}
+export var MoveAttribute = MoveAttribute
