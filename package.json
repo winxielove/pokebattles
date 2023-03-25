@@ -1,9 +1,22 @@
 {
   "name": "pokebattles",
   "version": "1.0.0",
-  "description": "Pokemon Battle Simulator",
+  "description": "battle sim",
   "main": "index.js",
-  "repository": "https://github.com/winxielove/pokebattles",
-  "author": "dew <70388244+dewbyte@users.noreply.github.com>",
-  "license": "MIT"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winxielove/pokebattles.git"
+  },
+  "author": "winxie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winxielove/pokebattles/issues"
+  },
+  "homepage": "https://github.com/winxielove/pokebattles#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
